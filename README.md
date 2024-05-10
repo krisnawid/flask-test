@@ -1,2 +1,8 @@
 # flask-test
-flask test
+
+* run program
+- flask run
+
+* check connection
+- py check_connection.py
+
